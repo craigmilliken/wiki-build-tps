@@ -1,6 +1,6 @@
 To run
 
-1. Open terminal, go to `cd /users/craigmilliken/wiki-build`
+1. Open terminal, go to `cd /users/craigmilliken/wiki-build-tps`
 
 2. Then, `brew services start postgresql`
 
